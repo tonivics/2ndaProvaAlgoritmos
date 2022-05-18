@@ -1,1 +1,1 @@
-# ProvazinhaAlgorismos
+# ProvaAlgoritmos
